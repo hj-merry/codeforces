@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1492604075 source:f:\big number\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<cstdio>
+
